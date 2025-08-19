@@ -31,7 +31,7 @@ Which age group contributes most to the active workforce?
 
 # 📊 Dashboard Insights
 
-1[HR Analysis Dashboard](https://github.com/suryavhi704/HR-Data-Analysis-Power-BI/blob/main/HR%20Analysis%20Dashboard%20Image.png?raw=true)
+![HR Analysis Dashboard](https://github.com/suryavhi704/HR-Data-Analysis-Power-BI/blob/main/HR%20Analysis%20Dashboard%20Image.png?raw=true)
 
 # 🔑 Key Findings:
 
