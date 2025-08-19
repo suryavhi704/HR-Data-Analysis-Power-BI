@@ -60,9 +60,13 @@ Version Control: Git & GitHub
 # 📂 Project Structure
 
 ├── data/               # Raw & cleaned HR dataset
+
 ├── dashboard/          # Power BI dashboard files
+
 ├── images/             # Dashboard screenshots
+
 ├── notebooks/          # Data analysis scripts
+
 ├── README.md           # Project documentation
 
 
